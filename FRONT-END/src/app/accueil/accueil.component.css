@@ -1,0 +1,14 @@
+/* In your component's CSS file */
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../../assets/Images/one-way-rental.jpg");
+    min-height: 75%;
+  }
+  
+  .menu {
+    display: none;
+  }
